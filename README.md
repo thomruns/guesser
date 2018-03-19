@@ -1,2 +1,3 @@
 # Guesser
-Simple number guessing game. CSS using Skeleton framework.
+Simple number guessing game. CSS using Skeleton framework.  
+Gameplay allows users a limited number of attempts to guess a randomly selected number between two choices determined by game parameters. UI feedback is provided for both incorrect and correct guesses in the form of messages and color-codes. Once maximum number of incorrect attempts are made, the user cannot enter additional guesses without clicking a button to reset the game.
